@@ -10,8 +10,8 @@ He also setup Elastix on Digital Ocean(https://m.do.co/c/e36250744e93), and it s
 ## Instalation
 To start out, ssh into your host. Then at the command, download the install scripts. If you do not have wget, install it by `yum -y install git`, then you will just need to run this:
 
-git clone https://github.com/shadikur/Elastix-4.0.git
-cd Elastix*
+	git clone https://github.com/shadikur/Elastix-4.0.git
+	cd Elastix*
 
 If you are using the Digital Ocean 512 MB Memory / 20 GB Disk / NYC3 - CentOS 7.2 x64 setup, you will want to create a Swapfile, or else your memory will run out, and the database will crash. to do this, run `./create-swapfile.sh` 
 
