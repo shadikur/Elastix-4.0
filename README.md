@@ -1,4 +1,4 @@
-# Elastix4onCentos7vz
+# Elastix 4 on Centos7
 ###Install Elastix 4 on Centos 7 OpenVZ & Other VPS's
 
 These scripts also work well if you have a linux server that you want to run Elastix in a openVZ container.
