@@ -1,3 +1,8 @@
+# Happy to donate?
+If you are happy to donate for the development and continous support to all my project to up and running, I would really appreciate your little donation.
+
+DONATE VIA PAYPAL [https://www.paypal.me/shuvoqmul/USD]
+
 # Elastix 4 on Centos7
 ###Install Elastix 4 on Centos 7 OpenVZ & Other VPS's
 
